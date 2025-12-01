@@ -1,11 +1,4 @@
 
-# Developing and Optimizing Data Structures for Real-World Applications Using Python
-### A Unified Framework for Scalable E-Commerce Inventory & Recommendation Systems
-**Author:** Kashif Ali Syed  
-**Course:** MSCS-532 – Algorithms and Data Structures  
-**University of the Cumberlands**  
-**Instructor:** Brandon Bass  
-
 ---
 
 ## Project Overview
